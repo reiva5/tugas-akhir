@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	int curr = 0;
 	string filename = "rdf";
 	ostringstream oss;
-	oss << filename << '-' << ++curr << ".nt";
+	oss << dirName << "/" << filename << '-' << ++curr << ".nt";
 	int cnt = 0;
 	ofs.open(oss.str().c_str());
 	int tot = 0;
