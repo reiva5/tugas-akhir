@@ -1,0 +1,8 @@
+Z name John
+Z type Student
+Y advisor Z
+Y type Publication
+Y name Smith
+Y author X
+X type Publication
+X title RDF
