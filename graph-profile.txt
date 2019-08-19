@@ -1,8 +1,5 @@
-Z name John
-Z type Student
-Y advisor Z
-Y type Publication
-Y name Smith
-Y author X
-X type Publication
-X title RDF
+X name $x
+X nationality Y
+X type Astronaut
+Y name China
+Y type Country
