@@ -1,3 +1,5 @@
-x type planet
-x name jupiter
-x satellites $x
+y type online_encyclopedia
+y name wikipedia
+y author x
+x type person
+x name $s
