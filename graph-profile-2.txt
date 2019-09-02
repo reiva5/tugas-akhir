@@ -1,5 +1,1 @@
-Y type Professor
-Y name Smith
-Y teaches X
-X type Course
-X title DBMS
+x type programminglanguage
