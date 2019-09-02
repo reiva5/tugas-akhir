@@ -1,4 +1,4 @@
-y type internet_encyclopedia
+y type website
 y name wikipedia
 y author x
 x type person
